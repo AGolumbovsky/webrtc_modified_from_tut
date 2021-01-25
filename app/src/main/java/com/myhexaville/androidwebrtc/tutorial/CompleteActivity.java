@@ -106,7 +106,8 @@ public class CompleteActivity extends AppCompatActivity {
 
     private void connectToSignallingServer() {
         try {
-            socket = IO.socket("https://salty-sea-26559.herokuapp.com/");
+            // socket = IO.socket("https://salty-sea-26559.herokuapp.com/");
+            socket = IO.socket("104.131.171.71:8080");
 
             socket.on(EVENT_CONNECT, args -> {
                 Log.d(TAG, "connectToSignallingServer: connect");
