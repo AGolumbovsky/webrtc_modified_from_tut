@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\code\android\webrtc_modified_from_tut\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\code\android\webrtc_modified_from_tut\app\src\debug\shaders"/></dataSet></merger>

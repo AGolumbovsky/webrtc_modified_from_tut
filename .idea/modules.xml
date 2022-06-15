@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android-WebRtc.iml" filepath="$PROJECT_DIR$/Android-WebRtc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-WebRtc.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-WebRtc.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webrtc_modified_from_tut.iml" filepath="$PROJECT_DIR$/.idea/modules/webrtc_modified_from_tut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/webrtc_modified_from_tut.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/webrtc_modified_from_tut.app.iml" />
     </modules>
   </component>
 </project>

@@ -1,283 +1,283 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\f4faeaf47e9eafc34e9727fd2f85df6a\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\549870690b2690f6ab9370a95765900c\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fb0c4779faafe0d1f0bc5bc8ca232d0a\AndroidManifest.xml:2:1-11:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\a652c5d15ad62198334b0cde1e186e5a\AndroidManifest.xml:15:1-21:12
-MERGED from [com.android.support:design:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6132fa00c4998380664ebd9b7b93d99f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:2:1-34:12
-MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:2:1-19:12
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\0cc4316fcbf825e39c4383ed9608115b\AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ecd8e7ab5bf5facd59b7d932657e745\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\a5720f863e639d092c928ed0da43283c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\c07bfcb03cbb985d8e5cc71577d76153\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d75719c649d443562b932f13cd1d65a4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\008fcad3c47be305884530af418f1950\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\d149063be86b532add5a76c510544dfe\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0d29e3bcfe7c0a320f3e5cb00ec4e6cf\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2293631d6347d1edd6d5d985788c043f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1333a49cd13ee53b5a4559532c8cab8b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\654dca36189bf690d7933e8bc1e8b7a0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\97971ebc85cb85e5a8f7bcedd305c6c3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\26b3802a1f8b766c286017786f8dd70e\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cce1245330afcb8064688d21b8e01c68\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8118ad2c4294c049c0c60f6d8294b079\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c8e88c9fddee7e79ae5e401baa84b52\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6602d494171947efb103bd618e8f08b8\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\8cdde98d1f7399cfe02694e2ff6a3731\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\b193b703f1247a19341a70cf192ce27c\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b87269aec8cd736b10643f6b581b6465\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\b650fb51e0dff5ea10eda9f19a5d3dc5\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6f99ed403115f52cbc6ba3b8eb7557b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:2:1-34:12
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:2:1-19:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\327db1ff1f7e8567b920d601c42140ce\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d64c13e5cd381b2bb074c5699b67b4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\8743cbd051826be740f6cf90e0512597\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\c5e6c9cbd28128437d7789feb73b3fb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6431701fdc27e9821a4fddc41a6cb4c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\1e68ee3f2e6a95608f695ef88106a075\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\8713976766daecfda1df9422e0e7ab21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f04c2833bd88f9ce04069d7f10d7d4dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cde3fbb1b793cc0c4f289cab963587d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\80e21012df679258539af97ff2210f96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\31fd899c7dc1031a064555962fa3037c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\936a109d84a869fa54591c69b2bcf333\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d7dcfe11fd5c3388965a33e4b10ae80f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9215f151c0b9e8a2ed3faa2db2bfe7f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\019b73bc40ff81e331114ed81a94c4ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11779b6dc78ff723da303c523a8055c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b564fcc8731b778762baa33d3b55486c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
 	package
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:1-64:12
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.camera
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:5:5-60
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:5:5-60
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:5:19-57
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:5:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:6:5-70
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:6:5-70
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:6:19-67
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:6:19-67
 uses-feature#0x00020000
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:7:5-9:35
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:7:5-9:35
 	android:glEsVersion
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:8:9-41
 	android:required
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:9:9-32
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:9:9-32
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:11:5-65
-MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:11:5-65
-MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:11:5-65
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:11:5-65
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:11:5-65
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:11:22-62
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:11:22-62
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:12:5-79
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:13:5-80
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:13:22-77
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:13:22-77
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:14:5-71
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:14:5-71
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:14:22-68
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:14:22-68
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:15:5-67
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:15:22-64
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:15:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:16:5-81
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:16:22-78
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:16:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:17:5-79
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:17:22-76
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:18:5-68
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:18:5-68
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:18:22-65
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:18:22-65
 application
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:20:5-62:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fb0c4779faafe0d1f0bc5bc8ca232d0a\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fb0c4779faafe0d1f0bc5bc8ca232d0a\AndroidManifest.xml:9:5-20
-MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:14:5-32:19
-MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:14:5-32:19
-MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:11:5-17:19
-MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:11:5-17:19
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:20:5-62:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b87269aec8cd736b10643f6b581b6465\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b87269aec8cd736b10643f6b581b6465\AndroidManifest.xml:9:5-20
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:14:5-32:19
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:14:5-32:19
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:11:5-17:19
 	android:supportsRtl
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:23:9-41
 	android:icon
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:22:9-43
 	android:allowBackup
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:25:9-40
 activity#com.myhexaville.androidwebrtc.app_rtc_sample.main.AppRTCMainActivity
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:26:9-29:55
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:26:9-29:55
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:28:13-45
 	android:windowSoftInputMode
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:29:13-52
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:29:13-52
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:27:13-67
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:27:13-67
 activity#com.myhexaville.androidwebrtc.app_rtc_sample.call.CallActivity
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:30:9-35:52
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:30:9-35:52
 	android:screenOrientation
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:34:13-49
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:34:13-49
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:33:13-45
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:33:13-45
 	android:configChanges
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:32:13-59
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:32:13-59
 	android:theme
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:35:13-49
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:35:13-49
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:31:13-61
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:31:13-61
 activity#com.myhexaville.androidwebrtc.LauncherActivity
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:36:9-45:20
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:36:9-45:20
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:38:13-58
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:38:13-58
 	android:theme
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:39:13-56
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:39:13-56
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:37:13-45
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:37:13-45
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:40:13-44:29
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:41:17-69
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:41:25-66
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:43:27-74
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:43:27-74
 activity#com.myhexaville.androidwebrtc.tutorial.CameraRenderActivity
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:46:9-49:59
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:46:9-49:59
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:48:13-45
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:48:13-45
 	android:theme
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:49:13-56
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:47:13-58
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:47:13-58
 activity#com.myhexaville.androidwebrtc.tutorial.MediaStreamActivity
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:50:9-53:59
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:50:9-53:59
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:52:13-74
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:52:13-74
 	android:theme
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:53:13-56
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:53:13-56
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:51:13-57
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:51:13-57
 activity#com.myhexaville.androidwebrtc.tutorial.DataChannelActivity
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:54:9-57:59
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:54:9-57:59
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:56:13-71
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:56:13-71
 	android:theme
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:57:13-56
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:57:13-56
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:55:13-57
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:55:13-57
 activity#com.myhexaville.androidwebrtc.tutorial.CompleteActivity
-ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:58:9-61:68
+ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:58:9-61:68
 	android:label
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:60:13-60
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:60:13-60
 	android:theme
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:61:13-56
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:61:13-56
 	android:name
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml:59:13-54
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml:59:13-54
 uses-sdk
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\f4faeaf47e9eafc34e9727fd2f85df6a\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\f4faeaf47e9eafc34e9727fd2f85df6a\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\549870690b2690f6ab9370a95765900c\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\549870690b2690f6ab9370a95765900c\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fb0c4779faafe0d1f0bc5bc8ca232d0a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fb0c4779faafe0d1f0bc5bc8ca232d0a\AndroidManifest.xml:5:5-7:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\a652c5d15ad62198334b0cde1e186e5a\AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\a652c5d15ad62198334b0cde1e186e5a\AndroidManifest.xml:19:5-43
-MERGED from [com.android.support:design:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6132fa00c4998380664ebd9b7b93d99f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6132fa00c4998380664ebd9b7b93d99f\AndroidManifest.xml:20:5-44
-MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:7:5-9:41
-MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:7:5-9:41
-MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:7:5-9:41
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\0cc4316fcbf825e39c4383ed9608115b\AndroidManifest.xml:8:5-10:41
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\0cc4316fcbf825e39c4383ed9608115b\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ecd8e7ab5bf5facd59b7d932657e745\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ecd8e7ab5bf5facd59b7d932657e745\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\a5720f863e639d092c928ed0da43283c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\a5720f863e639d092c928ed0da43283c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\c07bfcb03cbb985d8e5cc71577d76153\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\c07bfcb03cbb985d8e5cc71577d76153\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d75719c649d443562b932f13cd1d65a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d75719c649d443562b932f13cd1d65a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\008fcad3c47be305884530af418f1950\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\008fcad3c47be305884530af418f1950\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\d149063be86b532add5a76c510544dfe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\d149063be86b532add5a76c510544dfe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0d29e3bcfe7c0a320f3e5cb00ec4e6cf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0d29e3bcfe7c0a320f3e5cb00ec4e6cf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2293631d6347d1edd6d5d985788c043f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2293631d6347d1edd6d5d985788c043f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1333a49cd13ee53b5a4559532c8cab8b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1333a49cd13ee53b5a4559532c8cab8b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\654dca36189bf690d7933e8bc1e8b7a0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\654dca36189bf690d7933e8bc1e8b7a0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\97971ebc85cb85e5a8f7bcedd305c6c3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\97971ebc85cb85e5a8f7bcedd305c6c3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\26b3802a1f8b766c286017786f8dd70e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\26b3802a1f8b766c286017786f8dd70e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cce1245330afcb8064688d21b8e01c68\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cce1245330afcb8064688d21b8e01c68\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8118ad2c4294c049c0c60f6d8294b079\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8118ad2c4294c049c0c60f6d8294b079\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c8e88c9fddee7e79ae5e401baa84b52\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c8e88c9fddee7e79ae5e401baa84b52\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6602d494171947efb103bd618e8f08b8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6602d494171947efb103bd618e8f08b8\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\8cdde98d1f7399cfe02694e2ff6a3731\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\8cdde98d1f7399cfe02694e2ff6a3731\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\b193b703f1247a19341a70cf192ce27c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\b193b703f1247a19341a70cf192ce27c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b87269aec8cd736b10643f6b581b6465\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b87269aec8cd736b10643f6b581b6465\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\b650fb51e0dff5ea10eda9f19a5d3dc5\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\b650fb51e0dff5ea10eda9f19a5d3dc5\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:design:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6f99ed403115f52cbc6ba3b8eb7557b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6f99ed403115f52cbc6ba3b8eb7557b1\AndroidManifest.xml:20:5-44
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:7:5-9:41
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\327db1ff1f7e8567b920d601c42140ce\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\327db1ff1f7e8567b920d601c42140ce\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d64c13e5cd381b2bb074c5699b67b4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d64c13e5cd381b2bb074c5699b67b4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\8743cbd051826be740f6cf90e0512597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\8743cbd051826be740f6cf90e0512597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\c5e6c9cbd28128437d7789feb73b3fb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\c5e6c9cbd28128437d7789feb73b3fb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6431701fdc27e9821a4fddc41a6cb4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6431701fdc27e9821a4fddc41a6cb4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\1e68ee3f2e6a95608f695ef88106a075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\1e68ee3f2e6a95608f695ef88106a075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\8713976766daecfda1df9422e0e7ab21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\8713976766daecfda1df9422e0e7ab21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f04c2833bd88f9ce04069d7f10d7d4dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f04c2833bd88f9ce04069d7f10d7d4dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cde3fbb1b793cc0c4f289cab963587d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cde3fbb1b793cc0c4f289cab963587d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\80e21012df679258539af97ff2210f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\80e21012df679258539af97ff2210f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\31fd899c7dc1031a064555962fa3037c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\31fd899c7dc1031a064555962fa3037c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\936a109d84a869fa54591c69b2bcf333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\936a109d84a869fa54591c69b2bcf333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d7dcfe11fd5c3388965a33e4b10ae80f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d7dcfe11fd5c3388965a33e4b10ae80f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9215f151c0b9e8a2ed3faa2db2bfe7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9215f151c0b9e8a2ed3faa2db2bfe7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\019b73bc40ff81e331114ed81a94c4ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\019b73bc40ff81e331114ed81a94c4ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11779b6dc78ff723da303c523a8055c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11779b6dc78ff723da303c523a8055c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b564fcc8731b778762baa33d3b55486c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b564fcc8731b778762baa33d3b55486c\AndroidManifest.xml:20:5-44
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\agolumbovsky\ag_code\Android\Android-WebRtc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+		ADDED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\android\webrtc_modified_from_tut\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:12:5-80
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:12:22-77
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:12:22-77
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:18:9-21:47
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:18:9-21:47
 	android:screenOrientation
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:20:13-49
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:20:13-49
 	android:theme
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:21:13-44
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:21:13-44
 	android:name
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:19:13-76
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:19:13-76
 provider#com.myhexaville.smartimagepicker.CustomFileProvider
-ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:23:9-31:20
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:23:9-31:20
 	android:grantUriPermissions
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:27:13-47
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:27:13-47
 	android:authorities
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:25:13-79
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:25:13-79
 	android:exported
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:26:13-37
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:24:13-79
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:24:13-79
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:28:13-30:54
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:28:13-30:54
 	android:resource
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:30:17-51
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:30:17-51
 	android:name
-		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\8a520e04c646ef1ba536bc2e6e2574e1\AndroidManifest.xml:29:17-67
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\smart-image-picker-1.0.4.aar\fe2c1a00f1ec42aa7de7bf6d047fb945\AndroidManifest.xml:29:17-67
 activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
-ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:12:9-16:66
+ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:12:9-16:66
 	android:label
-		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:15:13-29
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:15:13-29
 	android:exported
-		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:14:13-37
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:14:13-37
 	android:theme
-		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:16:13-63
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:16:13-63
 	android:name
-		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolumbovsky\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\2ddead85c129bb4ed5f3a0c08eb29c45\AndroidManifest.xml:13:13-86
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\agolu\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\3a01fff8050b65e1678f93aeb3d3e3c3\AndroidManifest.xml:13:13-86
